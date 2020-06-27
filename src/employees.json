@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Russell Wilson",
+    "department": "Software Development",
+    "title": "Senior Full Stack Developer"
+  },
+  {
+    "id": 2,
+    "name": "Kam Chancellor",
+    "department": "Software Development",
+    "title": "Front End Developer"
+  },
+  {
+    "id": 3,
+    "name": "Earl Thomas",
+    "department": "Software Development",
+    "title": "Back End Developer"
+  },
+  {
+    "id": 4,
+    "name": "Richard Sherman",
+    "department": "Accounting",
+    "title": "Accounting Manager"
+  },
+  {
+    "id": 5,
+    "name": "Bobby Wagner",
+    "department": "Accounting",
+    "title": "Accounting Assistant"
+  },
+  {
+    "id": 6,
+    "name": "Doug Baldwin",
+    "department": "Accounting",
+    "title": "Budget Analyst"
+  },
+  {
+    "id": 7,
+    "name": "KJ Wright",
+    "department": "Marketing",
+    "title": "Marketing Director"
+  },
+  {
+    "id": 8,
+    "name": "DK Metcalf",
+    "department": "Marketing",
+    "title": "Marketing Analyst"
+  },
+  {
+    "id": 9,
+    "name": "Gary Payton",
+    "department": "Human Resource",
+    "title": "Human Resource Manager"
+  },
+  {
+    "id": 10,
+    "name": "Randy Johnson",
+    "department": "Human Resource",
+    "title": "Administrative Assistant"
+  },
+  {
+    "id": 11,
+    "name": "Edgar Martinez",
+    "department": "Software Development",
+    "title": "Front End Developer"
+  },
+  {
+    "id": 12,
+    "name": "Shawn Kemp",
+    "department": "Software Development",
+    "title": "Back End Developer"
+  }
+]
